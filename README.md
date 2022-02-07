@@ -17,3 +17,4 @@ Project is created with:
 * 1.8 inch LCD Module 128x160pixel
 ## Setup
 Connect the LCD display according to the diagram below:
+![](./docs/hardwareCable.png)
