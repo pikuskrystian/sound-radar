@@ -8,9 +8,7 @@ Sound radar design with the use of two microphone modules integrated with the LP
 
 ## Technologies
 Project is created with:
-* C 
-* I
-* A
+* C
 
 ## Hardware
 * NXP LPC55s69 microcontroller
