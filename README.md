@@ -16,8 +16,4 @@ Project is created with:
 * NXP LPC55s69 microcontroller
 * 1.8 inch LCD Module 128x160pixel
 ## Setup
-To run this project, install it locally using npm:
-
-```
-
-```
+Connect the LCD display according to the diagram below:
